@@ -1,0 +1,104 @@
+platform_types:
+  - crackedStone
+  - crackedStone
+  - steelBar
+  - brickWall
+  - woodPlank
+  - woodPlank
+  - woodPlank
+  - woodPlank
+  - dinoFriend
+platform_x_coords:
+  - 100
+  - 600
+  - 850
+  - 1100
+  - 1380
+  - 1880
+  - 2380
+  - 2880
+  - 3700
+platform_y_coords:
+  - 400
+  - 400
+  - 250
+  - 100
+  - 150
+  - 250
+  - 300
+  - 350
+  - 320
+enemy_left:
+  - jellyfish
+  - jellyfish
+  - AltBadGuyLeft
+  - jellyfish
+  - BadGuyLeft
+  - AltBadGuyLeft
+  - AltBadGuyLeft
+  - jellyfish
+  - BadGuyLeft
+  - jellyfish
+  - AltBadGuyLeft
+enemy_right:
+  - jellyfish
+  - jellyfish
+  - AltBadGuyRight
+  - jellyfish
+  - BadGuyRight
+  - AltBadGuyRight
+  - AltBadGuyRight
+  - jellyfish
+  - BadGuyRight
+  - jellyfish
+  - AltBadGuyRight
+enemy_steps:
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+enemy_x_start:
+  - 200
+  - 500
+  - 850
+  - 1100
+  - 1550
+  - 1900
+  - 2125
+  - 2510
+  - 2420
+  - 3060
+  - 2970
+enemy_y:
+  - 300
+  - 300
+  - 155
+  - 0
+  - 55
+  - 155
+  - 155
+  - 205
+  - 205
+  - 245
+  - 255
+enemy_health:
+  - 15
+  - 15
+  - 7
+  - 15
+  - 4
+  - 7
+  - 7
+  - 15
+  - 4
+  - 15
+  - 7
+background: background3
+end_of_level: 3500

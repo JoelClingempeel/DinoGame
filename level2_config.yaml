@@ -1,0 +1,114 @@
+platform_types:
+  - steelBar
+  - steelBar
+  - brickWall
+  - steelBar
+  - brickWall
+  - steelBar
+  - steelBar
+  - brickWall
+  - brickWall
+  - brickWall
+  - brickWall
+  - brickWall
+  - background3
+platform_x_coords:
+  - 200
+  - 400
+  - 650
+  - 1400
+  - 1600
+  - 1300
+  - 1620
+  - 1880
+  - 3100
+  - 3380
+  - 3660
+  - 3840
+  - 4120
+platform_y_coords:
+  - 400
+  - 250
+  - 100
+  - 440
+  - 300
+  - 180
+  - 145
+  - 90
+  - 400
+  - 260
+  - 120
+  - 120
+  - 0
+enemy_left:
+  - AltBadGuyLeft
+  - AltBadGuyLeft
+  - BadGuyLeft
+  - BadGuyLeft
+  - AltBadGuyLeft
+  - BadGuyLeft
+  - AltBadGuyLeft
+  - AltBadGuyLeft
+  - AltBadGuyLeft
+  - AltBadGuyLeft
+  - jellyfish
+enemy_right:
+  - AltBadGuyRight
+  - AltBadGuyRight
+  - BadGuyRight
+  - BadGuyRight
+  - AltBadGuyRight
+  - BadGuyRight
+  - AltBadGuyRight
+  - AltBadGuyRight
+  - AltBadGuyRight
+  - AltBadGuyRight
+  - jellyfish
+enemy_steps:
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+  - 40
+enemy_x_start:
+  - 400
+  - 480
+  - 950
+  - 1400
+  - 1600
+  - 1335
+  - 1880
+  - 2300
+  - 2600
+  - 2900
+  - 3700
+enemy_y:
+  - 153
+  - 400
+  - 400
+  - 350
+  - 205
+  - 85
+  - -7
+  - 400
+  - 400
+  - 400
+  - 20
+enemy_health:
+  - 7
+  - 7
+  - 4
+  - 4
+  - 7
+  - 4
+  - 7
+  - 7
+  - 7
+  - 7
+  - 15
+background: background2
+end_of_level: 4000
